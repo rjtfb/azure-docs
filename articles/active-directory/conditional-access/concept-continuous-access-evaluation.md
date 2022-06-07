@@ -63,21 +63,21 @@ This process enables the scenario where users lose access to organizational file
 > [!NOTE]
 > Not all client app and resource provider combinations are supported. See the following tables. The first column of this table refers to web applications launched via web browser (i.e. PowerPoint launched in web browser) while the remaining four columns refer to native applications running on each platform described. Additionally, references to "Office" encompass Word, Excel, and PowerPoint.
 
-| | Outlook Web | Outlook Win32 | Outlook iOS | Outlook Android | Outlook Mac |
+| | Outlook Web | Outlook Win | Outlook iOS | Outlook Android | Outlook Mac |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **SharePoint Online** | Supported | Supported | Supported | Supported | Supported |
 | **Exchange Online** | Supported | Supported | Supported | Supported | Supported |
 
-| | Office web apps | Office Win32 apps | Office for iOS | Office for Android | Office for Mac |
+| | Office web apps | Office Win apps | Office for iOS | Office for Android | Office for Mac |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **SharePoint Online** | Not Supported \* | Supported | Supported | Supported | Supported |
 | **Exchange Online** | Not Supported | Supported | Supported | Supported | Supported |
 
-| | OneDrive web | OneDrive Win32 | OneDrive iOS | OneDrive Android | OneDrive Mac |
+| | OneDrive web | OneDrive Win | OneDrive iOS | OneDrive Android | OneDrive Mac |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **SharePoint Online** | Supported | Not Supported | Supported | Supported | Not Supported |
 
-| | Teams web | Teams Win32 | Teams iOS | Teams Android | Teams Mac |
+| | Teams web | Teams Win | Teams iOS | Teams Android | Teams Mac |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Teams Service** | Partially supported | Partially supported | Partially supported | Partially supported | Partially supported |
 | **SharePoint Online** | Partially supported | Partially supported | Partially supported | Partially supported | Partially supported |
